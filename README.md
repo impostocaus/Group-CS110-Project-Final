@@ -58,6 +58,7 @@ Citations
 - https://www.quia.com/quiz/316261.html
 - https://dev.to/ratan_3511/building-a-quiz-app-using-python-a-step-by-step-guide-2j25
 - https://realpython.com/python-quiz-application/
+- https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax#images
 
 ChatGPT code assistance sample:
 - https://chatgpt.com/share/690d3f18-01fc-8004-885b-625daf9460e2
