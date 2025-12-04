@@ -34,7 +34,8 @@ Our quiz transforms these themes into simple questions that encourage users to t
 
 The purpose is not just to test recall, but to help users explore how these systems show up in daily life and where ethical concerns arise.
 
-- Meeting schudule
+Meeting schudule
+
 | Day      | Time              |
 | -------- | ----------------- |
 | Tuesday  | 4:00–5:00 PM      |
