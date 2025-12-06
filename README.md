@@ -66,6 +66,7 @@ Citations
 - https://stackoverflow.com/questions/25072226/trying-to-add-a-timer-to-my-game
 - https://www.geeksforgeeks.org/python/using-lambda-in-gui-programs-in-python/
 - https://www.geeksforgeeks.org/python/enumerate-in-python/
+- https://pythonexamples.org/python-tkinter-window-background-color/
 
 ChatGPT code assistance sample:
 - https://chatgpt.com/share/690d3f18-01fc-8004-885b-625daf9460e2
