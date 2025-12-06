@@ -59,6 +59,11 @@ Citations
 - https://dev.to/ratan_3511/building-a-quiz-app-using-python-a-step-by-step-guide-2j25
 - https://realpython.com/python-quiz-application/
 - https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax#images
+- https://www.freecodecamp.org/news/how-to-create-a-gui-quiz-application-using-tkinter-and-open-trivia-db
+- https://stackoverflow.com/questions/42743032/confused-by-root-vs-self-root-and-the-use-of-init-also-confused-with-defini
+- https://www.geeksforgeeks.org/python/python-tkinter-label/
+- https://www.101computing.net/adding-a-timer-using-python/
+- https://stackoverflow.com/questions/25072226/trying-to-add-a-timer-to-my-game
 
 ChatGPT code assistance sample:
 - https://chatgpt.com/share/690d3f18-01fc-8004-885b-625daf9460e2
