@@ -64,6 +64,8 @@ Citations
 - https://www.geeksforgeeks.org/python/python-tkinter-label/
 - https://www.101computing.net/adding-a-timer-using-python/
 - https://stackoverflow.com/questions/25072226/trying-to-add-a-timer-to-my-game
+- https://www.geeksforgeeks.org/python/using-lambda-in-gui-programs-in-python/
+- https://www.geeksforgeeks.org/python/enumerate-in-python/
 
 ChatGPT code assistance sample:
 - https://chatgpt.com/share/690d3f18-01fc-8004-885b-625daf9460e2
