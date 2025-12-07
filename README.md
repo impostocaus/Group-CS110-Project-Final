@@ -1,8 +1,7 @@
 things that are still needed
-- Project dependencies including third-party libraries and data
 - Configuration, installation, and execution instructions (very important if using more than base Python)
 - Sample use-cases with screenshots (including alternative text)
-- A GUI version
+
 
 KIQ — Knowledge Integrity Quiz
 - A quiz project based on Weapons of Math Destruction by Cathy O’Neil
@@ -41,6 +40,9 @@ Our quiz transforms these themes into simple questions that encourage users to t
 - Insurance risk scoring
 
 The purpose is not just to test recall, but to help users explore how these systems show up in daily life and where ethical concerns arise.
+
+Screen Shots of Quiz
+
 
 Group Discord:
 - https://discord.gg/z9dEbCw2
