@@ -47,14 +47,14 @@ things that are still needed
 
 Our group is creating a quiz game that tests users' opinions and knowledge on issues mentioned in “Weapons of Math Destruction”. This game relates to diversity, social justice, equity, and inclusion by exploring public opinions on topics such as politics, recruitment, and education. Through questions based on examples like recruitment algorithms, political targeting, and teacher or school evaluation algorithms, the quiz helps users understand how “math” or “AI” can contribute to injustice and lack of transparency in society. By turning these real-world examples into multiple-choice questions, users engage critically with the ethical implications of data and algorithms.
 
-Weapons of Math Destruction describes how large-scale algorithmic systems can create harm when they are:
+### Weapons of Math Destruction describes how large-scale algorithmic systems can create harm when they are:
 
 - Opaque (you can’t see how they work)
 - Unregulated
 - Biased or unfair
 - Capable of impacting millions of people
 
-Our quiz transforms these themes into simple questions that encourage users to think critically about:
+### Our quiz transforms these themes into simple questions that encourage users to think critically about:
 
 - Political polarization on social media
 - Hiring and recruiting algorithms
@@ -62,7 +62,7 @@ Our quiz transforms these themes into simple questions that encourage users to t
 - Predatory advertising
 - Insurance risk scoring
 
-The purpose is not just to test recall, but to help users explore how these systems show up in daily life and where ethical concerns arise.
+### The purpose is not just to test recall, but to help users explore how these systems show up in daily life and where ethical concerns arise.
 
 ---
 
