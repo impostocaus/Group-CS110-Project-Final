@@ -3,7 +3,7 @@ things that are still needed
 - Sample use-cases with screenshots (including alternative text)
 
 
-KIQ — Knowledge Integrity Quiz
+## KIQ — Knowledge Integrity Quiz
 
 - A quiz project based on Weapons of Math Destruction by Cathy O’Neil
 
