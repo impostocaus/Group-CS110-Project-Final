@@ -42,8 +42,9 @@ Our quiz transforms these themes into simple questions that encourage users to t
 The purpose is not just to test recall, but to help users explore how these systems show up in daily life and where ethical concerns arise.
 
 Screen Shots of Quiz
-![Start of Quiz](<img width="594" height="536" alt="WMD Start Menu" src="https://github.com/user-attachments/assets/f32399cf-ec78-46f8-b0a2-46b9dc3e3455" />
-)
+<img width="606" height="536" alt="image" src="https://github.com/user-attachments/assets/0dbb1662-75ec-4a7b-9b18-c927307749a5" />
+
+
 
 Group Discord:
 - https://discord.gg/z9dEbCw2
