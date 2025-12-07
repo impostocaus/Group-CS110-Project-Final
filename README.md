@@ -42,7 +42,9 @@ Our quiz transforms these themes into simple questions that encourage users to t
 The purpose is not just to test recall, but to help users explore how these systems show up in daily life and where ethical concerns arise.
 
 Screen Shots of Quiz
+
 <img width="606" height="536" alt="image" src="https://github.com/user-attachments/assets/0dbb1662-75ec-4a7b-9b18-c927307749a5" />
+<img width="606" height="536" alt="image" src="https://github.com/user-attachments/assets/3c7a922c-fccb-4251-bd1c-580b5d370ad6" />
 
 
 
