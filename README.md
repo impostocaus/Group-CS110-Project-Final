@@ -5,7 +5,7 @@ things that are still needed
 
 # KIQ — Knowledge Integrity Quiz
 
-- A quiz project based on Weapons of Math Destruction by Cathy O’Neil
+### A quiz project based on Weapons of Math Destruction by Cathy O’Neil
 
 #### Class 
 
