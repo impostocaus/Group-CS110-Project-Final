@@ -27,6 +27,22 @@ things that are still needed
 | Thursday | 4:00–5:00 PM      |
 | Saturday | 11:00 AM–12:00 PM |
 
+Group Discord:
+
+- https://discord.gg/z9dEbCw2
+
+Overview of work
+
+- Max – Project name + initial description, README formatting, code contributions
+- Kailey – Project overview and background research,code contributions
+- Thai – Additional research, code structure ideas, quiz design concepts, code contributions
+
+live document for group
+
+- https://docs.google.com/document/d/14L8xTx9SVvfzQJU6b9m86IAX0aScc_M0i1ZK9Q_m_bc/edit?usp=sharing
+
+---
+
 ## Overview
 
 Our group is creating a quiz game that tests users' opinions and knowledge on issues mentioned in “Weapons of Math Destruction”. This game relates to diversity, social justice, equity, and inclusion by exploring public opinions on topics such as politics, recruitment, and education. Through questions based on examples like recruitment algorithms, political targeting, and teacher or school evaluation algorithms, the quiz helps users understand how “math” or “AI” can contribute to injustice and lack of transparency in society. By turning these real-world examples into multiple-choice questions, users engage critically with the ethical implications of data and algorithms.
@@ -50,26 +66,12 @@ The purpose is not just to test recall, but to help users explore how these syst
 
 ---
 
-Screen Shots of Quiz
+### ScreenShots
 
 <img width="606" height="536" alt="image" src="https://github.com/user-attachments/assets/0dbb1662-75ec-4a7b-9b18-c927307749a5" />
 <img width="606" height="536" alt="image" src="https://github.com/user-attachments/assets/3c7a922c-fccb-4251-bd1c-580b5d370ad6" />
 
 ---
-
-Group Discord:
-
-- https://discord.gg/z9dEbCw2
-
-Overview of work
-
-- Max – Project name + initial description, README formatting, code contributions
-- Kailey – Project overview and background research,code contributions
-- Thai – Additional research, code structure ideas, quiz design concepts, code contributions
-
-live document for group
-
-- https://docs.google.com/document/d/14L8xTx9SVvfzQJU6b9m86IAX0aScc_M0i1ZK9Q_m_bc/edit?usp=sharing
 
 ## Citations
 
