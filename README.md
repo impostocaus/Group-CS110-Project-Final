@@ -68,7 +68,12 @@ Our group is creating a quiz game that tests users' opinions and knowledge on is
 
 ### ScreenShots
 
+#### Menu of quiz
+
 <img width="606" height="536" alt="Start menu of quiz" src="https://github.com/user-attachments/assets/0dbb1662-75ec-4a7b-9b18-c927307749a5" />
+
+#### How the quiz looks
+
 <img width="606" height="536" alt="How the quiz looks" src="https://github.com/user-attachments/assets/3c7a922c-fccb-4251-bd1c-580b5d370ad6" />
 
 ---
