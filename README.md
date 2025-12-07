@@ -7,19 +7,25 @@ things that are still needed
 
 - A quiz project based on Weapons of Math Destruction by Cathy O’Neil
 
-## Class 
+### Class 
 
 - CS110
 - Dr. Lindsey Handley
 - 11/16/2025
 
-## Authors
+### Authors
 
 - Kailey Ryan
 - Thai Dinh
 - Maxwell Malocha
 
-## Meeting Schedule
+### Overview of work
+
+- Max – Project name + initial description, README formatting, code contributions
+- Kailey – Project overview and background research,code contributions
+- Thai – Additional research, code structure ideas, quiz design concepts, code contributions
+
+### Meeting Schedule
 
 | Day      | Time              |
 | -------- | ----------------- |
@@ -27,17 +33,11 @@ things that are still needed
 | Thursday | 4:00–5:00 PM      |
 | Saturday | 11:00 AM–12:00 PM |
 
-Group Discord:
+#### Group Discord:
 
 - https://discord.gg/z9dEbCw2
 
-Overview of work
-
-- Max – Project name + initial description, README formatting, code contributions
-- Kailey – Project overview and background research,code contributions
-- Thai – Additional research, code structure ideas, quiz design concepts, code contributions
-
-live document for group
+#### live document for group
 
 - https://docs.google.com/document/d/14L8xTx9SVvfzQJU6b9m86IAX0aScc_M0i1ZK9Q_m_bc/edit?usp=sharing
 
@@ -73,7 +73,7 @@ The purpose is not just to test recall, but to help users explore how these syst
 
 ---
 
-## Citations
+### Citations
 
 - https://www.proprofs.com/quiz-school/story.php?title=wmd-weapons-of-mass-destruction
 - https://www.quia.com/quiz/316261.html
@@ -89,7 +89,7 @@ The purpose is not just to test recall, but to help users explore how these syst
 - https://www.geeksforgeeks.org/python/enumerate-in-python/
 - https://pythonexamples.org/python-tkinter-window-background-color/
 
-## ChatGPT code assistance sample:
+### ChatGPT code assistance sample:
 
 - https://chatgpt.com/share/690d3f18-01fc-8004-885b-625daf9460e2
 - https://chatgpt.com/share/692f2b21-93dc-8003-a86a-16c13530a141
