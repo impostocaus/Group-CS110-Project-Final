@@ -7,25 +7,25 @@ things that are still needed
 
 - A quiz project based on Weapons of Math Destruction by Cathy O’Neil
 
-### Class 
+#### Class 
 
 - CS110
 - Dr. Lindsey Handley
 - 11/16/2025
 
-### Authors
+#### Authors
 
 - Kailey Ryan
 - Thai Dinh
 - Maxwell Malocha
 
-### Overview of work
+#### Overview of work
 
 - Max – Project name + initial description, README formatting, code contributions
 - Kailey – Project overview and background research,code contributions
 - Thai – Additional research, code structure ideas, quiz design concepts, code contributions
 
-### Meeting Schedule
+#### Meeting Schedule
 
 | Day      | Time              |
 | -------- | ----------------- |
@@ -33,11 +33,11 @@ things that are still needed
 | Thursday | 4:00–5:00 PM      |
 | Saturday | 11:00 AM–12:00 PM |
 
-#### Group Discord:
+##### Group Discord:
 
 - https://discord.gg/z9dEbCw2
 
-#### live document for group
+##### live document for group
 
 - https://docs.google.com/document/d/14L8xTx9SVvfzQJU6b9m86IAX0aScc_M0i1ZK9Q_m_bc/edit?usp=sharing
 
@@ -62,7 +62,7 @@ Our group is creating a quiz game that tests users' opinions and knowledge on is
 - Predatory advertising
 - Insurance risk scoring
 
-### The purpose is not just to test recall, but to help users explore how these systems show up in daily life and where ethical concerns arise.
+#### The purpose is not just to test recall, but to help users explore how these systems show up in daily life and where ethical concerns arise.
 
 ---
 
