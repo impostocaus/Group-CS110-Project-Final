@@ -21,8 +21,8 @@ things that are still needed
 
 #### Overview of work
 
-- Max – Project name + initial description, README formatting, code contributions
-- Kailey – Project overview and background research,code contributions
+- Max – Project name + initial description, README formatting, code contributions, commenting out each section in code
+- Kailey – Project overview and background research, code contributions, adding more complex features to the code
 - Thai – Additional research, code structure ideas, quiz design concepts, code contributions
 
 #### Meeting Schedule
