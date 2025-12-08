@@ -1,8 +1,3 @@
-things that are still needed
-- Configuration, installation, and execution instructions (very important if using more than base Python)
-- Sample use-cases with screenshots (including alternative text)
-
-
 # KIQ — Knowledge Integrity Quiz
 
 ### A quiz project based on Weapons of Math Destruction by Cathy O’Neil
@@ -65,6 +60,12 @@ Our group is creating a quiz game that tests users' opinions and knowledge on is
 #### The purpose is not just to test recall, but to help users explore how these systems show up in daily life and where ethical concerns arise.
 
 ---
+## Configuration, installation, and execution instructions (very important if using more than base Python)
+- Download
+- Open in VScode or MU editor
+- For VScode will need a python extention
+- Run the code editor of choice
+- Click start when window pops up
 
 ### ScreenShots
 
